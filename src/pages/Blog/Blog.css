@@ -1,0 +1,45 @@
+/* Cards */
+.customCardBlog {
+    height: 100%;
+    max-width: 350px;
+    _box-shadow: 0px 0px 48px 0px rgba(4,6,4, 0.4) !important;
+    border-radius: 5px;
+    overflow: hidden;
+    outline-width: 0px !important;
+}
+
+.customCardBlog .customCardBlog_image {
+    height: 140px;
+    
+
+}
+
+.customCardBlog .customCardBlog_title {
+    font-weight: 500;
+    font-size: 15px;
+    color: #000;
+    line-height: 30px;
+    padding: 2px 0 4px;
+}
+
+.customCardBlog .customCardBlog_caption {
+    color: gray !important;
+    font-weight: 400;
+}
+
+
+.customCardBlog .customCardBlog_description {
+    color: #989898;
+    font-weight: 400;
+    line-height: 22px;
+    padding: 5px 0;
+
+}
+
+.customCardBlog .customCardBlog_date {
+    color: black !important;
+    font-weight: 400;
+}
+
+
+/* End of Blog Cards */
